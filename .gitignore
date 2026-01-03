@@ -5,6 +5,8 @@ blog_frontend\node_modules
 **/.env
 .env.*
 **/.env.*
+# Explicitly ignore blog-website-server/.env
+blog-website-server/.env
 # Ignore log files
 *.log
 logs/
